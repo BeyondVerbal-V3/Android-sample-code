@@ -45,7 +45,7 @@ public class MainActivity extends Activity implements View.OnClickListener
 	private static final String Auth_URL = "https://token.beyondverbal.com/token";//https://token.beyondverbal.com/";//token
 
 
-	private static final String APIKey ="20bb49be-3979-485c-a46d-ad257770c2f7";
+	private static final String APIKey ="API KEY";
 	private Header access_token;
 	private String recordingid ;
 	private Button upstreamButton;
